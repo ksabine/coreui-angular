@@ -16,7 +16,7 @@
   ],
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port 80",
+    "start": "ng serve",
     "build": "ng build",
     "build-lib": "ng build @coreui/angular --prod",
     "test": "ng test",
