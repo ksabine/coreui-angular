@@ -16,7 +16,7 @@
   ],
   "scripts": {
     "ng": "ng",
-    "start": "npm install && ng serve",
+    "start": "ng serve -p 80",
     "build": "ng build",
     "build-lib": "ng build @coreui/angular --prod",
     "test": "ng test",
